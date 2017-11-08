@@ -1,9 +1,12 @@
+
 package conversiontemperatura;
-import java.util.*;
+import java.util.Scanner;
+
 /**
  *
- * @author Adirane
+ *Adirane
  */
+ 
 public class ConversionTemperatura {
 
     public static void main(String[] args) {
