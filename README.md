@@ -13,7 +13,6 @@ public class ConversionTemperatura {
         
         Scanner teclado = new Scanner(System.in);
         int c ;
-        double f ;
         
         System.out.println("-------------------------------");
         System.out.println("   CONVERSIÓN DE TEMPERATURA   ");
